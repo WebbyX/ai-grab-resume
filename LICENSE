@@ -1,0 +1,38 @@
+Nortia AI Grab Connector — Source-Available License
+
+Copyright (c) 2026 WebbyX. All rights reserved.
+
+1. Permission. You may download, install and run this software (the
+   "Software") free of charge, solely to connect accounts that you or your
+   organisation hold on supported hiring platforms to a Nortia workspace that
+   you or your organisation are authorised to use. You may read the source
+   code to evaluate, audit and verify the Software.
+
+2. Restrictions. Except where applicable law expressly allows it, you may not:
+   (a) modify, adapt, translate or create derivative works of the Software;
+   (b) redistribute, sublicense, sell, rent or lease the Software, or make it
+       available to any third party, other than as an unmodified copy of the
+       official package;
+   (c) use the Software, or any part of it, to build or operate a product or
+       service that competes with Nortia; or
+   (d) remove or alter this notice.
+
+3. Third-party platforms. You are responsible for complying with the terms of
+   every third-party platform you use the Software with, and for the
+   credentials you give it.
+
+4. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+5. Limitation of liability. IN NO EVENT SHALL WEBBYX BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS
+   USE.
+
+6. Termination. This license ends automatically if you breach it. When it
+   ends you must stop using the Software and delete every copy you hold.
+
+7. Third-party components. The distributed file dist/cli.js bundles
+   open-source components that remain under their own licenses; their notices
+   are reproduced at the end of that file.
